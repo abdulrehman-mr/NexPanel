@@ -1,5 +1,7 @@
 # NexPanel - Web Hosting Control Panel
 A modern web hosting control panel.
+![Nex Panel](https://i.imgur.com/j2vYOHg.png)
+
 ## WebServers
  **OpenLiteSpeed**, **Node.js** FOR diverse types of applications.
 ## Databases 
